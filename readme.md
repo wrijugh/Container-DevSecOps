@@ -21,6 +21,7 @@ Container-based applications are the thing today. We have many different ways to
 ## Proposed Architecture 
 It relys on Azure but can be replaced with any standard set of tools available today.
 
+![](ConatinerDevSecOps.png)
 
 ## Key Products in use
 - Azure DevOps / GitHub
